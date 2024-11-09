@@ -27,3 +27,6 @@ The application was developed using the following technologies:
 -   **API Integration**: Handling API responses, ensuring correct data flow, and implementing error handling required a deep understanding of asynchronous operations and promise handling in JavaScript.
 
 -   **Responsive Design**: Ensuring the application was fully responsive and functioned across various devices took additional effort, particularly with Tailwind CSS configurations.
+
+  ![Screenshot 2024-11-09 at 18-18-14 Product Page](https://github.com/user-attachments/assets/43a34804-2eb2-4756-93a4-d93a52bb281f)
+
